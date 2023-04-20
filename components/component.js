@@ -2,7 +2,6 @@
 
 import React from 'react';
 import styles from '../styles/style.module.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 const customCover = () => {
   return (
@@ -24,3 +23,5 @@ const customCover = () => {
 };
 
 export default customCover;
+
+ 
