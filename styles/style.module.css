@@ -1,10 +1,4 @@
-
-
-body {
-  font-family: 'Arial', sans-serif;
-  font-size: 1.25rem;
-}
-
+/* style.module.css */
 .cover-container {
   max-width: 42em;
 }
@@ -56,3 +50,5 @@ body {
   padding: .75rem 1.25rem;
   font-weight: 700;
 }
+
+ 
