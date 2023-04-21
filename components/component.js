@@ -5,7 +5,7 @@ const customCover = () => {
   return (
     <div className='cover-container d-flex w-100% h-100% p-3 mx-auto flex-column' style={{backgroundColor: 'grey'}}>
       <nav className='navbar navbar-dark bg-dark'> 
-        <a className='navbar-brand' href='#'>Navbar</a>
+        <a className='navbar-brand' href='#'>Cover</a>
       </nav>
       <main role='main' className='inner cover text-center'>
         <h1 className='cover-heading'>Cover your page.</h1>
@@ -24,3 +24,4 @@ const customCover = () => {
 };
 
 export default customCover;
+ 
